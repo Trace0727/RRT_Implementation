@@ -13,6 +13,7 @@ RRT_Pathfinding/
 ├── src/
 │   ├── RRT_Logic.java     # Contains the core RRT algorithm and logic
 │   └── RRT_GUI.java       # Handles visualization using Swing
+└──
 ```
 
 ---
